@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bambi-Forest
-- 👀 I’m interested in ... becoming a Front end web developer and eventually full stack!
-- 🌱 I’m currently learning ...HTML5/CSS3,Javascript, JAVA, DATABASE DESIGN
+- 👀 I’m interested in ... becoming a Data Engineer!
+- 🌱 I’m currently learning ...HTML5/CSS3,Javascript, JAVA, DATABASE DESIGN, SQL, SQL Server, My SQL, Data, Python Data Analytics
 - 💞️ I’m looking to collaborate on ... Website creations
 - 📫 How to reach me ... kisuyki@aol.com!
 
