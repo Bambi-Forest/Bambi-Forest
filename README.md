@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bambi-Forest
+- 👋 Hi, I’m @Nage
 - 👀 I’m interested in ... becoming a Data Analyst!
 - 🌱 I’m currently learning ...DATABASE DESIGN, SQL, SQL Server, MySQL, Data, Python Data Analytics, HTML5/CSS3, Core JAVA
 - 💞️ I’m looking to collaborate on ... Database SQL queries and Python.
