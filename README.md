@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nage
-- 👀 I’m interested in ... becoming a Data Analyst!
-- 🌱 I’m currently learning ...DATABASE DESIGN, SQL, SQL Server, MySQL, Data, Python Data Analytics, HTML5/CSS3, Core JAVA
+- 👀 I’m a Data Engineer
+- 🌱 I’m currently learning ...DATABASE DESIGN, SQL, SQL Server, MySQL, Data, Python Data Analytics
 - 💞️ I’m looking to collaborate on ... Database SQL queries and Python.
 - 📫 How to reach me ... https://www.linkedin.com/in/nage-murphy-396090107/!
 
