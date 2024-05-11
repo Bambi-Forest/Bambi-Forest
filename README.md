@@ -2,7 +2,7 @@
 - 👀 I’m a Data Engineer
 - 🌱 I’m currently learning ...DATABASE DESIGN, SQL, SQL Server, MySQL, Data, Python Data Analytics
 - 💞️ I’m looking to collaborate on ... Database SQL queries and Python.
-- 📫 How to reach me ... https://www.linkedin.com/in/nage-murphy-396090107/!
+- 📫 How to reach me ... http://linkedin.com/in/nagemurphymclaughlin!
 
 <!---
 Bambi-Forest/Bambi-Forest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
